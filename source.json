@@ -1,0 +1,14 @@
+[
+  {
+    "id": "JBWallpaper",
+    "assets": [
+      {
+        "url": "https://raw.githubusercontent.com/JB12342/wallapaper/main/wallpaper.mp4",
+        "id": "JBWallpaper-1080p",
+        "type": "video",
+        "accessibilityLabel": "Custom wallpaper",
+        "timeOfDay": "day"
+      }
+    ]
+  }
+]
